@@ -1,4 +1,4 @@
-Canibaba Hacizada || 
+Canibaba Hacizada ||
 Image: 1, Predicted output: 3;
 Image: 1 (v2 version), Predicted output: 1;
 Image: 2, Predicted output: 3;
